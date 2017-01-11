@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Todo App, just to test how rails works.
+Ruby version 2.334
 
-Things you may want to cover:
+## To run 
 
-* Ruby version
+* rails s
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* localhost:3000/todo_lists
